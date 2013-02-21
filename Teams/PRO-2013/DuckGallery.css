@@ -6,7 +6,7 @@
 
   
 html {
-  background:url(Blue.jpg) no-repeat center center fixed;
+  background-image:url("http://www.wallpaper4me.com/images/wallpapers/Optimized-purpleskyclouds-476412.jpeg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -91,15 +91,15 @@ p {
 	box-shadow: 0 0 10px 10px #9999ff;
 	font-family:Steinerlight;
 	font-weight:bold;
-	
-	
-	
-	
-	
+
+
+
+
+
 }
 .form label { display: inline-block; width: 150px;
 	font-family:Steinerlight;
 	font-weight:bold;
 	font-size:16px;
-	
+
  } 

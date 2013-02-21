@@ -6,7 +6,7 @@
 
   
 html {
-  background:url('http://www.wallpaper4me.com/images/wallpapers/Optimized-purpleskyclouds-476412.jpeg') no-repeat center center fixed;
+  background:url(http://www.wallpaper4me.com/images/wallpapers/Optimized-purpleskyclouds-476412.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -59,23 +59,24 @@ p {
 	color:#9999ff;
 }
 a {
-	text-decoration: none;
-	color: white;
+	text-decoration:none;
+	color:#000;
 }
 a:hover {
 	-moz-box-shadow: 0 0 5px 5px #FFF;
-	-webkit-box-shadow: 0 0 5px 5px #fff;
-	box-shadow: 0 0 5px 5px #fff;
+	-webkit-box-shadow: 0 0 5px 5px #FFF;
+	box-shadow: 0 0 5px 5px #FFF;
 	-moz-border-radius: 20px;
 	-webkit-border-radius: 20px;
 	-khtml-border-radius: 20px;
 	border-radius: 20px;
+}
 #sidebar {
 	position:relative;
 	top:35px;
 	padding-top:10px;
 	margin:0 auto;
-	width:195px;
+	width:100px;
 	float:right;
 	background:#FF9;
 	-moz-border-radius: 20px;
